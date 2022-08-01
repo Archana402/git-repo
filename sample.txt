@@ -2,4 +2,6 @@ This is a sample file
 I am learning git
 editing from github and git
 i am learning devops
+editing from github and git
+adding new line from github
 
